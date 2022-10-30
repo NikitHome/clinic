@@ -1,0 +1,270 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&display=swap');
+
+.header .center .logo p {
+    color: #8F3299;
+    font-family: 'Minion Pro';
+    font-style: normal;
+    font-weight: bold;
+}
+
+.header .center .header-text1 .header-text2 .text {
+    text-align: center;
+}
+
+.header .center .header-text1 .header-text2 .header-mini-text1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    color: #5A5C61;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.header .center .header-text1 .header-text2 .header-mini-text2 {
+    font-family: 'Manrope';
+    font-style: normal;
+    color: #5A5C61;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.header .center .header-text1 .header-text2 .header-mini-text3 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 18px;
+    color: rgba(90, 92, 97, 0.7);
+    font-weight: bold;
+}
+
+.header .center .header-text1 .header-text2 .header-mini-text4 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 90px;
+    margin-top: -15px;
+    margin-bottom: 0;
+    background: linear-gradient(65.95deg, #AB52CE 23.22%, #FE8687 76.01%), #7E39A8;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: bold;
+}
+
+.header .center .header-text1 .header-text2 .header-mini-text5 {
+    font-family: 'Manrope';
+    font-style: normal;
+    margin-top: -18px;
+    background: linear-gradient(65.95deg, #AB52CE 23.22%, #FE8687 76.01%), #7E39A8;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.discounts .left .text {
+    text-align: center;
+}
+
+.discounts .right .text {
+    text-align: center;
+}
+
+.discounts .left .discountText1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    color: #5A5C61;
+    font-size: 24px;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.discounts .left .discountText2 {
+    font-family: 'Manrope';
+    font-style: normal;
+    background: linear-gradient(65.95deg, #AB52CE 23.22%, #FE8687 76.01%), #7E39A8;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 80px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.discounts .left .discountText3 {
+    font-family: 'Manrope';
+    font-style: normal;
+    color: rgba(90, 92, 97, 0.7);
+    font-size: 18px;
+}
+
+.discounts .right .discountText1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    color: #5A5C61;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.discounts .right .discountText2 {
+    font-family: 'Manrope';
+    font-style: normal;
+    background: linear-gradient(65.95deg, #AB52CE 23.22%, #FE8687 76.01%), #7E39A8;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-size: 80px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+
+.discounts .right .discountText3 {
+    font-family: 'Manrope';
+    font-style: normal;
+    color: rgba(90, 92, 97, 0.7);
+    font-size: 18px;
+}
+
+.description .descriptionText {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 18px;
+    text-align: center;
+    color: #5A5C61;
+    margin-top: 60px;
+}
+
+.team .title .teamTextTite {
+    font-family: 'Manrope';
+    font-style: normal;
+    text-align: center;
+    color: #5A5C61;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.team .team-img .name {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 15px;
+    text-align: center;
+    color: #5A5C61;
+    font-weight: bold;
+}
+
+.team .team-img .job {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 10px;
+    text-align: center;
+    color: #5A5C61;
+    margin-top: -5px;
+}
+
+.team .worker-item .info .workerInfoText1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 25px;
+    color: #5A5C61;
+}
+
+.team .worker-item .info .workerInfoText2 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 15px;
+    color: #5A5C61;
+}
+
+.team .worker-item .info .workerInfoText3 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 15px;
+    color: rgba(90, 92, 97, 0.7);
+}
+
+.team .worker-item .info .workerInfoText4 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 15px;
+    color: rgba(90, 92, 97, 0.7);
+}
+
+.webinar-program .webinar-text1 .webinarTitle {
+    font-family: 'Manrope';
+    font-style: normal;
+    text-align: center;
+    color: #5A5C61;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.webinar-program .webinar-text2 .webinarTextItem1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 18px;
+    text-align: center;
+    color: #5A5C61;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.webinar-program .webinar-text2 .webinarTextItem2 {
+    margin-top: 0px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 18px;
+    text-align: center;
+    color: #5A5C61;
+}
+
+.webinar-program .webinar-text3 {
+    margin-left: 100px;
+}
+
+.webinar-program .webinar-text3 .webinarListsItem .webinarListItem {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 14.6222px;
+    color: #5A5C61;
+    margin-bottom: 40px;
+}
+
+.webinar-program .webinar-text3 .webinarListsItem {
+    margin-left: 30px;
+}
+
+.webinar-program .webinar-text3 .webinarListsItem .webinarListItem a {
+    text-decoration: underline;
+    color: #5A5C61;
+}
+
+.webinar-program .webinar-text3 .webinarListsItem .webinarListItem a:hover {
+    text-decoration: underline;
+    color: #5A5C61;
+}
+
+.discount-conditions .discount-conditions-text {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 70px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 18px;
+    text-align: center;
+    color: #5A5C61;
+}
+
+.footer .clinic {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-size: 14px;
+    text-align: right;
+    color: rgba(90, 92, 97, 0.7);
+    margin-top: 40px;
+    margin-right: 200px;
+}
+
+.footer .social a {
+    margin-top: 10px;
+    margin-bottom: 0;
+}

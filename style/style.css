@@ -1,0 +1,178 @@
+body {
+    height: 100vh;
+}
+
+.header .center .logo {
+    display: flex;
+    margin-left: 600px;
+    margin-top: 10px;
+    margin-bottom: -15px;
+}
+
+.header {
+    display: flex;
+    margin: 0;
+}
+
+.header .center {
+    height: 600px;
+    margin-bottom: 0;
+}
+
+.header .center .header-text1 {
+    display: flex;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+.header .center .header-text1 .header-text2 {
+    margin-top: -20px;
+    margin-left: 100px;
+}
+
+.header .left {
+    height: 600px;
+    width: 210px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: linear-gradient(269.17deg, #FFFFFF 0.34%, rgba(255, 255, 255, 0) 87.34%), #DBF7FA;
+}
+
+.header .right {
+    background: linear-gradient(269.17deg, #FFFFFF 0.34%, rgba(255, 255, 255, 0) 87.34%), #DBF7FA;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    height: 600px;
+    width: 210px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.discounts {
+    display: flex;
+    position: absolute;
+    background: linear-gradient(0deg, rgba(90, 92, 97, 0.05), rgba(90, 92, 97, 0.05)), #FFFFFF;
+    height: 400px;
+    left: 0;
+    right: 0;
+    margin-top: -8px;
+}
+
+.discounts .left {
+    margin-left: 150px;
+    margin-top: 60px;
+    position: absolute;
+    left: 0;
+}
+
+.discounts .center {
+    width: 550px;
+    position: absolute;
+    left: 450px;
+}
+
+.discounts .right {
+    margin-right: 150px;
+    margin-top: 60px;
+    position: absolute;
+    right: 0;
+}
+
+.description {
+    position: absolute;
+    margin-top: 392px;
+    height: 180px;
+    left: 0;
+    right: 0;
+    background: linear-gradient(244.77deg, rgba(171, 82, 206, 0.15) 25.08%, rgba(254, 134, 135, 0.15) 73.48%), #FFFFFF;
+}
+
+.team {
+    height: 820px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 580px;
+}
+
+.team .title {
+    margin-top: 40px;
+}
+
+.team .team-img {
+    display: flex;
+    margin-top: 60px;
+    margin-left: 245px;
+}
+
+.team .team-img .team-item {
+    margin-right: 70px;
+    margin-left: 13px;
+}
+
+.team .worker-item {
+    display: flex;
+    margin-top: 55px;
+    margin-left: 335px;
+}
+
+.team .worker-item .info {
+    margin-left: 50px;
+}
+
+.webinar-program {
+    height: 500px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 1400px;
+    background: linear-gradient(0deg, rgba(90, 92, 97, 0.05), rgba(90, 92, 97, 0.05)), #FFFFFF;
+}
+
+.webinar-program .webinar-text3 {
+    display: flex;
+}
+
+.webinar-program .webinar-buttons {
+    margin-top: 10px;
+    display: flex;
+}
+
+.discount-conditions {
+    display: flex;
+    height: 180px;
+    margin-top: 1900px;
+    margin-bottom: -15px;
+}
+
+.footer {
+    margin-top: 0px;
+    height: 100px;
+    background: rgba(90, 92, 97, 0.05);
+    margin-right: -8px;
+}
+
+.footer .social {
+    width: 30px;
+    height: 30px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.footer .social {
+    position: absolute;
+    display: flex;
+    left: 0;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+.footer .clinic {
+    position: absolute;
+    right: 0;
+}
+
+.footer .social a {
+    margin-right: 30px;
+}

@@ -1,0 +1,74 @@
+.btn1 {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 240px;
+    font-family: 'Manrope';
+    font-style: normal;
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-radius: 20px;
+    border: none;
+    background: linear-gradient(244.77deg, #AB52CE 25.08%, #FE8687 73.48%), #C4C4C4;
+}
+
+.btn1 p {
+    color: white;
+    font-weight: bold;
+}
+
+.team .team-img span {
+    margin-right: 50px;
+    margin-top: 100px;
+    margin-left: 0px;
+}
+
+.btn2 {
+    position: relative;
+    left: 50%;
+    transform: translate(-110%, 0);
+    width: 260px;
+    font-family: 'Manrope';
+    font-style: normal;
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-radius: 20px;
+    border: none;
+    background: linear-gradient(244.77deg, #AB52CE 25.08%, #FE8687 73.48%), #C4C4C4;
+}
+
+.btn2 p {
+    color: white;
+    font-weight: bold;
+}
+
+.btn3 {
+    box-sizing: border-box;
+    position: relative;
+    left: 50%;
+    transform: translate(-100%, 0);
+    width: 260px;
+    font-family: 'Manrope';
+    font-style: normal;
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border-radius: 20px;
+    border-color: rgba(171, 82, 206, 1) rgba(254, 134, 135, 1);
+    background: linear-gradient(0deg, rgba(90, 92, 97, 0.05), rgba(90, 92, 97, 0.05)), #FFFFFF;
+}
+
+.btn3 p {
+    font-weight: bold;
+}
